@@ -1,8 +1,9 @@
 body{
     margin:auto;
     width: 90%;
-    background-size: 1em;
-    background-image: url(kepek/logo.png);
+    background-size: 75em;
+    
+    background-image: url();
 }
 
 h1{
