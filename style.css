@@ -1,8 +1,8 @@
 body{
     margin:auto;
     width: 90%;
-    background-size: 100em;
-    background-color: burlywood;
+    background-size: 75em;
+    background-image: url();
     padding: 200px;
 }
 
@@ -27,13 +27,6 @@ h2{
     font-weight: bold;
     color: rgb(28, 36, 53);  
 }
-
-h3{
-    margin-bottom: 10px;
-    text-align: center;
-    color: rgb(28, 36, 53);
-}
-
 h1, h2, h3, h4 {
     letter-spacing: 2px;
 }
