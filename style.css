@@ -1,8 +1,8 @@
 body{
     margin:auto;
     width: 90%;
-    background-size: 75em;
-    background-image: url();
+    background-size: 150em;
+    background-image: url(kepek/hatter.jpg);
     padding: 200px;
 }
 
@@ -20,6 +20,7 @@ h1{
 
 p{
     text-indent: 25px;
+    color: whitesmoke;
 }
 
 h2{
